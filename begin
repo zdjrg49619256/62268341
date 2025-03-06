@@ -1,3 +1,4 @@
+String userName = props.getProperty("db.user");
 String password = props.getProperty("db.password");
 BufferedWriter out = null;
 try {

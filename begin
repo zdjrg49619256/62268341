@@ -1,3 +1,4 @@
+test.fetch();
 OracleJdbcTest test = new OracleJdbcTest();
 String url = props.getProperty("db.url");
 con=DriverManager.getConnection(url, userName, password);

@@ -1,3 +1,4 @@
+ResultSet rs = ps.executeQuery();
 public class OracleJdbcTest
 test.fetch();
 OracleJdbcTest test = new OracleJdbcTest();

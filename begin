@@ -1,3 +1,4 @@
+public class OracleJdbcTest
 // do the thing you do
 String password = props.getProperty("db.password");
 props.load(fs);

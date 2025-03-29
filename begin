@@ -1,3 +1,4 @@
+props.load(fs);
 } finally {
 ps.close();
 public class OracleJdbcTest
